@@ -1,6 +1,8 @@
 # 김슬기(Kim, Seulgi)
 * 국적 : 대한민국
-* E-mail : me \_at\_ seulgi.kim
+* E-mail : me _at_ seulgi _dot_ kim
+* Blog : http://blog.seulgi.kim
+* Github : https://github.com/sgkim126/
 
 ## 약력
 * 2008.03.01 : 서울대학 교컴퓨터 공학부 입학
