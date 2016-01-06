@@ -27,3 +27,10 @@
 
 ## 자격증
 * 정보처리 산업기사(2010.08.1)
+
+## 프로젝트
+* [Getris](https://github.com/kcm1700/Getris): Tetris-like game with sticky blocks.
+* [beyond](https://github.com/SollmoStudio/beyond): Beyond: The Scalable Game Server Framework 
+* [beyond.ts](https://github.com/SollmoStudio/beyond.ts): The TypeScript port of [Beyond](https://github.com/SollmoStudio/beyond)
+* [sfuture](https://github.com/sgkim126/sfuture): JavaScript port of Scala Future written with TypeScript
+* [xmath](https://github.com/simnalamburt/xmath): Rust port of Microsoft [DirectXMath](https://simnalamburt.github.io/xmath/)
