@@ -15,7 +15,7 @@
     * [C#](https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29), [ASP.NET](http://www.asp.net/), [Microsoft SQL Server](https://en.wikipedia.org/wiki/Microsoft_SQL_Server), [jQuery](https://jquery.com/)
 * 2012.06.18 ~  : Company 100 근무 (산업기능요원)
   * [WebKit](https://webkit.org/) 개발
-    * [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API가)속 & 병렬화
+    * [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)가속 & 병렬화
     * GPU Process 포팅
     * 스마트 TV 포팅
 * ~ 2014.06.30 : Company 100 근무
