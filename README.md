@@ -34,3 +34,4 @@
 * [beyond.ts](https://github.com/SollmoStudio/beyond.ts): The TypeScript port of [Beyond](https://github.com/SollmoStudio/beyond)
 * [sfuture](https://github.com/sgkim126/sfuture): JavaScript port of Scala Future written with TypeScript
 * [xmath](https://github.com/simnalamburt/xmath): Rust port of Microsoft [DirectXMath](https://simnalamburt.github.io/xmath/)
+* [insert.js](https://github.com/sgkim126/insert.js): API to insert dynamically loaded contents on the web page
