@@ -13,14 +13,15 @@
     * [C#](https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29), [ASP.NET](http://www.asp.net/), [오라클 DB](https://www.oracle.com/database/index.html), [jQuery](https://jquery.com/)
   * 도시바(한국) 전산 서비스 구축
     * [C#](https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29), [ASP.NET](http://www.asp.net/), [Microsoft SQL Server](https://en.wikipedia.org/wiki/Microsoft_SQL_Server), [jQuery](https://jquery.com/)
-* 2012.06.18 ~ 2014.02.11 : Company 100 근무 (2012.06.18 ~ 2014.02.11 산업기능요원 근무)
+* 2012.06.18 ~ 2014.03.31 : Company 100(브라우저 팀) 근무 (2012.06.18 ~ 2014.02.11 산업기능요원 근무)
   * [WebKit](https://webkit.org/) 개발
     * [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)가속 & 병렬화
     * GPU Process 포팅
     * 스마트 TV 포팅
+* 2014.04.01 ~ 2014.06.30 : Company 100(게임 서버 팀) 근무
   * [Beyond](https://github.com/sollmostudio/beyond) 게임 서버 엔진 개발
     * [Scala](http://scala-lang.org/), [Rhino engine](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/Rhino), [Play framework](https://www.playframework.com/), [MongoDB](https://www.mongodb.org/), [ZooKeeper](https://zookeeper.apache.org/),  [Curator](http://curator.apache.org/)
-* 2014.07.01 ~ 2015.06.30 : Company 100 파트타임
+* 2014.07.01 ~ 2015.06.30 : Company 100(게임 서버 팀) 파트타임
   * [Beyond.ts](https://github.com/sollmostudio/beyond.ts) 게임 서버 엔진 개발
     * [TypeScript](http://typescriptlang.org/), [node.js](https://nodejs.org/), [MongoDB](https://www.mongodb.org)/
 
