@@ -20,7 +20,7 @@
     * 스마트 TV 포팅
   * [Beyond](https://github.com/sollmostudio/beyond) 게임 서버 엔진 개발
     * [Scala](http://scala-lang.org/), [Rhino engine](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/Rhino), [Play framework](https://www.playframework.com/), [MongoDB](https://www.mongodb.org/), [ZooKeeper](https://zookeeper.apache.org/),  [Curator](http://curator.apache.org/)
-* 2014.07.01 ~ 2015.06.30 : Company 100 아르바이트
+* 2014.07.01 ~ 2015.06.30 : Company 100 파트타임
   * [Beyond.ts](https://github.com/sollmostudio/beyond.ts) 게임 서버 엔진 개발
     * [TypeScript](http://typescriptlang.org/), [node.js](https://nodejs.org/), [MongoDB](https://www.mongodb.org)/
 
