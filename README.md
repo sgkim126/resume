@@ -23,7 +23,7 @@
     * [C#](https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29), [ASP.NET](http://www.asp.net/), [오라클 DB](https://www.oracle.com/database/index.html), [jQuery](https://jquery.com/)
   * 도시바(한국) 전산 서비스 구축
     * [C#](https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29), [ASP.NET](http://www.asp.net/), [Microsoft SQL Server](https://en.wikipedia.org/wiki/Microsoft_SQL_Server), [jQuery](https://jquery.com/)
-* 2008.03.01 : 서울대학 교컴퓨터 공학부 입학
+* 2008.03.01 : 서울대학교 컴퓨터 공학부 입학
 
 
 ## 자격증
