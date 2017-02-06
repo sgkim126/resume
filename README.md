@@ -5,6 +5,8 @@
 * Github : https://github.com/sgkim126/
 
 ## 약력
+* 2017.01.02 ~ : SAP Labs Korea
+  * HANA SQL engine team - Optimizer team
 * 2014.07.01 ~ 2015.06.30 : Company 100(게임 서버 팀) 파트타임
   * [Beyond.ts](https://github.com/sollmostudio/beyond.ts) 게임 서버 엔진 개발
     * [TypeScript](http://typescriptlang.org/), [node.js](https://nodejs.org/), [MongoDB](https://www.mongodb.org)/
