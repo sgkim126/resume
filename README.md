@@ -5,7 +5,7 @@
 * Github : https://github.com/sgkim126/
 
 ## 약력
-* 2018.03.02 ~ : Kodebox
+* 2018.03.02 ~ 2020.09.30 : Kodebox
   * [CodeChain](https://github.com/CodeChain-io/codechain) 설계 및 개발
 * 2017.01.02 ~ 2018.02.28 : SAP Labs Korea
   * HANA SQL engine team - Optimizer team
